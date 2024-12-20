@@ -63,5 +63,7 @@ Employee attrition, or employee turnover, is a critical concern for many organiz
 ## Acknowledgments
 This project is based on publicly available datasets and open-source tools. Special thanks to the data science community for resources and inspiration.
 
+## License
+This project is licensed under the [MIT License](LICENSE).
 
 
